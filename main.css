@@ -108,4 +108,7 @@ body {
         margin-bottom: 15px;
         padding: 10px;
     }
+    .navbar.navbar-dark.bg-success {
+    background-color: #f7d1d1 !important; /* Light shady pink */
+}
 }
