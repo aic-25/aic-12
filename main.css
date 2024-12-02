@@ -1,5 +1,22 @@
 /* DEVELOPER Azumi Castaneda, IS117-002, Fall 2024 */
 
+.bg-success {
+    background-color: #f7d1d1 !important; /* Light shady pink */
+}
+
+.btn-success {
+    background-color: #f7d1d1 !important; /* Light shady pink */
+    border-color: #e8b3b3 !important; /* Light pink border */
+}
+
+.card.border-success {
+    border-color: #e8b3b3 !important; /* Light pink border */
+}
+
+.footer.bg-success {
+    background-color: #f7d1d1 !important; /* Light shady pink */
+    border-top: 2px solid #e8b3b3 !important; /* Light pink border */
+}
 /* General Styles */
 body {
     background-color: #eec0c8; /* Light palermo pink background */
@@ -110,5 +127,5 @@ body {
     }
     .navbar.navbar-dark.bg-success {
     background-color: #f7d1d1; /* Light shady pink */
-}
+    }
 }
