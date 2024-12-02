@@ -1,5 +1,22 @@
 /* DEVELOPER Azumi Castaneda, IS117-002, Fall 2024 */
 
+/* Custom light pink color */
+.bg-pink {
+    background-color: #f8c8d7; /* Light shady pink */
+}
+
+.border-pink {
+    border: 1px solid #f8c8d7; /* Light shady pink border */
+}
+
+.btn-pink {
+    background-color: #f8c8d7; /* Light shady pink button */
+    color: #fff; /* White text on pink background */
+}
+
+.footer-pink {
+    background-color: #f8c8d7; /* Light shady pink footer */
+}
 /* General Styles */
 body {
     background-color: #eec0c8 !important; /* Light palermo pink background */
