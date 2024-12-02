@@ -51,7 +51,7 @@ body {
 }
 
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    background-color: #e8b3b3 !important; /* Slightly darker pink for hover */
+    background-color: #e8b3b3;
     border-radius: 5px;
 }
 
